@@ -1,0 +1,2 @@
+cd C:\Users\91768\eclipse-workspace\Java project\mavenproject
+mvn clean install
